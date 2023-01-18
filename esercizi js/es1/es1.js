@@ -11,3 +11,4 @@ for(i--;i>=0;i--){
     
 }
 console.log(Math.pow(molti,esponente))
+//da finire
